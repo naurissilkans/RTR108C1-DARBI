@@ -38,6 +38,26 @@ height:600px;
 border-radius: 25px;
 background: #193663;
 }
+#homew
+{
+margin:0 auto;
+width:950px;
+height:60px;
+border-radius: 25px;
+background: #193663;
+text-align:center;	
+}
+#homew  ul 
+{
+list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+#homew li
+{
+display: inline;
+}
+
 #logo p
 {
 font-family:verdana;
