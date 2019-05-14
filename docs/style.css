@@ -1,0 +1,118 @@
+body
+{
+background-image: url("images/papfons.jpg");
+}
+#logo
+{
+	margin:0 auto;
+width:950px;
+height:150px;
+border-radius: 25px;
+background: #0066CC;
+}
+#nav
+{
+	margin:0 auto;
+width:950px;
+height:60px;
+border-radius: 25px;
+background: #0066CC;
+text-align:center;
+}
+#nav  ul 
+{
+list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+#nav li
+{
+display: inline;
+}
+#main
+{
+margin:0 auto;
+margin-top:10px;
+width:950px;
+height:600px;
+border-radius: 25px;
+background: #0066CC;
+}
+#logo p
+{
+font-family:verdana;
+font-size:45px;
+color:black;
+text-align:center;
+padding:35px;
+text-shadow: 2px 2px #606060;
+}
+/***-----------------POGAS-------------***/
+.button {
+  display: inline-block;
+  padding: 10px 25px;
+  font-size: 17px;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+ background: linear-gradient(red, blue);
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+table
+{
+margin-top:40px;
+text-align:center;
+margin:auto;
+width:900px;
+color:white;
+font-size:18px;
+
+
+}
+table img
+{
+width:200px;
+
+}
+table p
+{
+}
+
+#kruta
+{
+margin:auto;
+}
+#kruta table
+{
+width:900px;
+border:solid 1px white;
+border-collapse: collapse;
+}
+#kruta td
+{
+width:150px;
+border:solid 1px white;
+height:80px;
+}
+#kruta h3
+{
+text-align: center;
+padding-top:20px;
+}
+#tituls img
+{
+margin-left:
+margin-top:
+}
+
