@@ -8,7 +8,7 @@ background-image: url("images/back.jpg");
 width:950px;
 height:150px;
 border-radius: 25px;
-background: #0066CC;
+background: #193663;
 }
 #nav
 {
@@ -16,7 +16,7 @@ background: #0066CC;
 width:950px;
 height:60px;
 border-radius: 25px;
-background: #0066CC;
+background: #193663;
 text-align:center;
 }
 #nav  ul 
@@ -36,7 +36,7 @@ margin-top:10px;
 width:950px;
 height:600px;
 border-radius: 25px;
-background: #0066CC;
+background: #193663;
 }
 #logo p
 {
