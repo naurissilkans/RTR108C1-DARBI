@@ -55,7 +55,7 @@ list-style-type: none;
 }
 #homew li
 {
-display: inline;
+display: transverse;
 }
 
 #logo p
