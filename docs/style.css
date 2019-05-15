@@ -41,11 +41,12 @@ background: #193663;
 #homew
 {
 margin:0 auto;
+margin-top:250px;
 width:950px;
 height:250px;
 border-radius: 25px;
 background: #193663;
-text-align:center;	
+text-align:left;	
 }
 #homew  ul 
 {
