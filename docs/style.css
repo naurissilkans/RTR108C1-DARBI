@@ -38,6 +38,15 @@ height:600px;
 border-radius: 25px;
 background: #193663;
 }
+#main p
+{
+font-family:verdana;
+font-size:15px;
+color:white;
+text-align:center;
+padding:35px;
+}
+
 #homew
 {
 margin:0 auto;
