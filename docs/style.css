@@ -67,6 +67,27 @@ list-style-type: none;
 {
 display: linear;
 }
+#lab
+{
+margin:0 auto;
+margin-top:10px;
+width:950px;
+height:900px;
+border-radius: 25px;
+background: #193663;
+text-align:left;	
+}
+#lab  ul 
+{
+list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+#lab li
+{
+display: linear;
+}
+
 
 #logo p
 {
